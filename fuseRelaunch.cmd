@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/furka_000/Desktop/Fall 2014 Courses/EEE 495/Lab 2/Complete/TopModule_isim_beh.exe" -prj "C:/Users/furka_000/Desktop/Fall 2014 Courses/EEE 495/Lab 2/Complete/TopModule_beh.prj" "work.TopModule" 

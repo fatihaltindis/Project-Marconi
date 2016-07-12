@@ -1,0 +1,3 @@
+vhdl work "../rs232.vhd"
+vhdl work "../FPGAtoPC/rs232_rx.vhd"
+vhdl work "TopModule.vhd"

@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/furka_000/Desktop/Fall 2014 Courses/EEE 495/Lab 2/Complete/TopModule.xst" -ofn "C:/Users/furka_000/Desktop/Fall 2014 Courses/EEE 495/Lab 2/Complete/TopModule.syr" 
